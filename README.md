@@ -36,5 +36,3 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use, mod
 ### Acknowledgments
 - [Apache Spark](https://spark.apache.org/) - Powerful distributed computing framework
 - [PostgreSQL](https://www.postgresql.org/) - Open-source relational database management system
-
-Please update the above information as necessary and provide appropriate links to your repository and your profile.
