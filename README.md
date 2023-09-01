@@ -1,4 +1,4 @@
-# SparkETL-failure detection and postgres integration
+# Spark-based ETL Pipeline with Failure Detection and Postgres Integration
 
 The SparkETL-Failure Detection and Postgres Integration project is a data pipeline built using Apache Spark. Its purpose is to collect data from multiple CSV files, combine relevant columns from each dataset into a single dataset, and add a new column called "failure status" to indicate any failures that occurred during the data processing stages of the pipeline then load the final dataset into postgres database.
 
